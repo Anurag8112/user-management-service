@@ -1,5 +1,4 @@
 import { Injectable } from '@nestjs/common';
 
-// user repository setup
 @Injectable()
-export class UserRepository {}
+export class PropertySpecificationRepository {}
